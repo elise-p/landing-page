@@ -1,0 +1,7 @@
+.column .row1 .logo { 
+    flex: 2 1 0;
+}
+
+.column .row1 .subtitle { 
+    flex: 1 1 0;
+}
